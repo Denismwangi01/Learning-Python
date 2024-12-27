@@ -1,9 +1,9 @@
 # Learning-Python
-- Learning Python Basics: Variables and Control Structures 🐍
+- Learning Python Basics: Variables, Control Structures, loops and functions 🐍
 - This repository is where I'm sharing the Python programs I worked on while learning about variables, control structures, and basic programs.
 
 ## What This Repository Is About
-- This repo contains two simple Python programs I wrote today:
+- This repo contains 3 simple Python programs :
 
 `Variables.py`
 
@@ -27,7 +27,40 @@
 - Nested Conditions: Conditions inside other conditions for more specific checks.
 
 
-## Next?
-- I’m excited to keep learning and will be adding more Python programs as I continue my journey. My next goal is to work on loops and functions!
+## loops and function
+
+The multiplication table generator prompts the user for a number and displays its multiplication table from 1 to 10. 
+This project uses a for loop to iterate through numbers 1 to 10 and compute the product.
+
+## How It Works
+
+- The user inputs a number.
+
+- The program calls the multiplication_table function, which:
+
+- Prints the multiplication table header.
+
+- Iterates through numbers 1 to 10 using a for loop.
+
+- Computes and prints the product for each iteration.
+
+
+The "Guess the Number" game generates a random number between 1 and 10. 
+
+The user repeatedly guesses the number until they guess correctly. This project uses a while loop to keep the game running until the correct number is guessed.
+
+## How It Works
+
+- The program generates a random number using Python's random.randint function.
+
+- It prompts the user to guess the number.
+
+- The program compares the user's guess with the random number:
+
+- If the guess is correct, it displays a success message and exits the loop.
+
+- If the guess is incorrect, it prompts the user to try again.
+
+`loops.py`
 
 Feel free to check out my code and leave feedback if you’d like! 😊
