@@ -51,4 +51,31 @@ The user repeatedly guesses the number until they guess correctly. This project 
 
 `loops.py`
 
-Feel free to check out my code and leave feedback if you’d like! 😊
+## What Are Functions?
+
+- Functions in Python are reusable blocks of code that perform specific tasks. They help in organizing code, improving readability, and avoiding repetition.
+
+## Topics Covered
+
+1. Defining and Calling Functions
+
+We learned how to create a function using the def keyword and call it when needed.
+
+2. Functions with Parameters
+
+Functions can take arguments to make them more dynamic.
+
+3. Functions with Return Values
+
+Functions can return values instead of printing them.
+
+4. Default Parameter Values
+
+We can set default values for parameters.
+
+5. Using Functions with Loops
+
+We combined functions and loops to check whether numbers are odd or even
+
+
+- Feel free to check out my code and leave feedback if you’d like! 😊
