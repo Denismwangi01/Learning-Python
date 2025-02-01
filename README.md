@@ -49,18 +49,6 @@ The "Guess the Number" game generates a random number between 1 and 10.
 
 The user repeatedly guesses the number until they guess correctly. This project uses a while loop to keep the game running until the correct number is guessed.
 
-## How It Works
-
-- The program generates a random number using Python's random.randint function.
-
-- It prompts the user to guess the number.
-
-- The program compares the user's guess with the random number:
-
-- If the guess is correct, it displays a success message and exits the loop.
-
-- If the guess is incorrect, it prompts the user to try again.
-
 `loops.py`
 
 Feel free to check out my code and leave feedback if you’d like! 😊
