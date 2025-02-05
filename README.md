@@ -78,4 +78,11 @@ We can set default values for parameters.
 We combined functions and loops to check whether numbers are odd or even
 
 
+## What is File Handling?
+
+- File handling in Python allows you to create, read, write, and update files. The built-in open() function is used to work with files.
+
+
+
+
 - Feel free to check out my code and leave feedback if you’d like! 😊
